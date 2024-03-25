@@ -1,0 +1,13 @@
+/* CSS styles for the shopping cart */
+.item {
+    margin-bottom: 10px;
+  }
+  
+  .controls button {
+    margin: 0 5px;
+  }
+  
+  #total {
+    margin-top: 20px;
+    font-weight: bold;
+  }
